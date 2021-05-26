@@ -1,3 +1,3 @@
 import qrcode
-qrcode.make("deepak").show("myqrcode.png")
+qrcode.make("deepak").show("m.png")
 print("generated qrcode")
